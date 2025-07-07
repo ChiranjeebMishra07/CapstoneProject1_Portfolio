@@ -13,6 +13,8 @@ img{
     margin-left:25% ;
     width: 50%;
     height: 50%;
+    border-radius:5px;
+    
 }
 .button{
     height: 50px;
