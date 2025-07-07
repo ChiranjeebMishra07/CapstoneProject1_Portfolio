@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    
+}
+*{
+    background-color: #FFD93D;
+    font-family: "GFS Didot", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+img{
+    border: 10px solid white;
+    margin-left:25% ;
+    width: 50%;
+    height: 50%;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin : 2px;
+}
+.button_img {
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid #FFD93D;
+    
+   
+}
+a{
+    text-decoration: none;
+}
